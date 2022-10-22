@@ -2,10 +2,10 @@ import React, { useState } from "react";
 import ReactDOM from "react-dom";
 
 // Import React FilePond
-import { FilePond, File, registerPlugin } from "react-filepond";
+import { FilePond, registerPlugin } from "react-filepond";
 
 // Import FilePond styles
-import "filepond/dist/filepond.min.css";
+// import "filepond/dist/filepond.min.css";
 
 // Import the Image EXIF Orientation and Image Preview plugins
 // Note: These need to be installed separately
